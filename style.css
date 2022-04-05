@@ -16,8 +16,9 @@ header .overlay{
 	padding: 50px;
 	color: #FFF;
 	text-shadow: 1px 1px 1px #333;
-  background-image: linear-gradient( 135deg, #0554ff9a 10%, #ecd5c98b 100%);
-	
+  background-color: cornflowerblue;
+  text-align: center;
+
 }
 
 h1 {
@@ -25,6 +26,13 @@ h1 {
 	font-size: 80px;
 	margin-bottom: 30px;
 }
+
+h2 {
+
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-align: center;
+  }
 
 h3, p {
 	font-family: 'Open Sans', sans-serif;
