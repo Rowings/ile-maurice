@@ -15,7 +15,7 @@ img.left {
 img.right {
     float:right;
     border: 5px solid burlywood;
-    margin-right: 20px;
+    margin-left: 20px;
 }
 
 h3 {
