@@ -1,0 +1,34 @@
+div {
+display: flexbox;
+justify-content: center;
+background-color: cornflowerblue;
+padding: 20px;
+}
+
+
+img.left {
+    float:left;
+    margin-right: 20px;
+    border: 5px solid burlywood;
+}
+img.right {
+    
+    float: right;
+    margin-left: 20px;
+    border: 5px solid burlywood;
+
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-style: italic;
+    color: midnightblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    color: midnightblue;
+}
